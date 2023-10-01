@@ -1,0 +1,14 @@
+C:\Users\Rebecca\source\repos\MellemMod3Test\MellemMod3Test\bin\Debug\net6.0\MellemMod3Test.exe
+C:\Users\Rebecca\source\repos\MellemMod3Test\MellemMod3Test\bin\Debug\net6.0\MellemMod3Test.deps.json
+C:\Users\Rebecca\source\repos\MellemMod3Test\MellemMod3Test\bin\Debug\net6.0\MellemMod3Test.runtimeconfig.json
+C:\Users\Rebecca\source\repos\MellemMod3Test\MellemMod3Test\bin\Debug\net6.0\MellemMod3Test.dll
+C:\Users\Rebecca\source\repos\MellemMod3Test\MellemMod3Test\bin\Debug\net6.0\MellemMod3Test.pdb
+C:\Users\Rebecca\source\repos\MellemMod3Test\MellemMod3Test\obj\Debug\net6.0\MellemMod3Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebecca\source\repos\MellemMod3Test\MellemMod3Test\obj\Debug\net6.0\MellemMod3Test.AssemblyInfoInputs.cache
+C:\Users\Rebecca\source\repos\MellemMod3Test\MellemMod3Test\obj\Debug\net6.0\MellemMod3Test.AssemblyInfo.cs
+C:\Users\Rebecca\source\repos\MellemMod3Test\MellemMod3Test\obj\Debug\net6.0\MellemMod3Test.csproj.CoreCompileInputs.cache
+C:\Users\Rebecca\source\repos\MellemMod3Test\MellemMod3Test\obj\Debug\net6.0\MellemMod3Test.dll
+C:\Users\Rebecca\source\repos\MellemMod3Test\MellemMod3Test\obj\Debug\net6.0\refint\MellemMod3Test.dll
+C:\Users\Rebecca\source\repos\MellemMod3Test\MellemMod3Test\obj\Debug\net6.0\MellemMod3Test.pdb
+C:\Users\Rebecca\source\repos\MellemMod3Test\MellemMod3Test\obj\Debug\net6.0\MellemMod3Test.genruntimeconfig.cache
+C:\Users\Rebecca\source\repos\MellemMod3Test\MellemMod3Test\obj\Debug\net6.0\ref\MellemMod3Test.dll

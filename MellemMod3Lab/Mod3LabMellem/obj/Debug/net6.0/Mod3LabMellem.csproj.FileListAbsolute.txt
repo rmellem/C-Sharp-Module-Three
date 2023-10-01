@@ -1,0 +1,14 @@
+C:\Users\Rebecca\source\repos\Mod3LabMellem\Mod3LabMellem\bin\Debug\net6.0\Mod3LabMellem.exe
+C:\Users\Rebecca\source\repos\Mod3LabMellem\Mod3LabMellem\bin\Debug\net6.0\Mod3LabMellem.deps.json
+C:\Users\Rebecca\source\repos\Mod3LabMellem\Mod3LabMellem\bin\Debug\net6.0\Mod3LabMellem.runtimeconfig.json
+C:\Users\Rebecca\source\repos\Mod3LabMellem\Mod3LabMellem\bin\Debug\net6.0\Mod3LabMellem.dll
+C:\Users\Rebecca\source\repos\Mod3LabMellem\Mod3LabMellem\bin\Debug\net6.0\Mod3LabMellem.pdb
+C:\Users\Rebecca\source\repos\Mod3LabMellem\Mod3LabMellem\obj\Debug\net6.0\Mod3LabMellem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebecca\source\repos\Mod3LabMellem\Mod3LabMellem\obj\Debug\net6.0\Mod3LabMellem.AssemblyInfoInputs.cache
+C:\Users\Rebecca\source\repos\Mod3LabMellem\Mod3LabMellem\obj\Debug\net6.0\Mod3LabMellem.AssemblyInfo.cs
+C:\Users\Rebecca\source\repos\Mod3LabMellem\Mod3LabMellem\obj\Debug\net6.0\Mod3LabMellem.csproj.CoreCompileInputs.cache
+C:\Users\Rebecca\source\repos\Mod3LabMellem\Mod3LabMellem\obj\Debug\net6.0\Mod3LabMellem.dll
+C:\Users\Rebecca\source\repos\Mod3LabMellem\Mod3LabMellem\obj\Debug\net6.0\refint\Mod3LabMellem.dll
+C:\Users\Rebecca\source\repos\Mod3LabMellem\Mod3LabMellem\obj\Debug\net6.0\Mod3LabMellem.pdb
+C:\Users\Rebecca\source\repos\Mod3LabMellem\Mod3LabMellem\obj\Debug\net6.0\Mod3LabMellem.genruntimeconfig.cache
+C:\Users\Rebecca\source\repos\Mod3LabMellem\Mod3LabMellem\obj\Debug\net6.0\ref\Mod3LabMellem.dll
